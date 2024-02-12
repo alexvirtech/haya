@@ -2,7 +2,6 @@
   "name": "lec5-ex",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "type":"module",
   "scripts": {
     "dev": "parcel ./src/index.html -p 3031 --no-source-maps",
